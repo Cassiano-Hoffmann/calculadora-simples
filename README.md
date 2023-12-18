@@ -16,7 +16,7 @@ Faça o download ou clone este repositório:
 
 bash
 Copy code
-git clone https://github.com/seu-username/calculadora-simples.git
+git clone https://github.com/Cassiano-Hoffmann/calculadora-simples.git
 Abra o arquivo index.html no seu navegador web.
 
 Use os botões da calculadora para realizar as operações desejadas.
