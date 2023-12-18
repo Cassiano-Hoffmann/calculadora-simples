@@ -3,7 +3,7 @@
 Bem-vindo ao repositório da Calculadora Simples, uma aplicação web que permite realizar operações básicas de matemática. Esta calculadora foi desenvolvida utilizando HTML5, CSS3 e JavaScript.
 
 # Demonstração
-
+![Calculadora simples](https://github.com/Cassiano-Hoffmann/calculadora-simples/assets/117099774/b3973899-5048-4575-8f13-9c573d4d4aa9)
 
 # Funcionalidades
 
